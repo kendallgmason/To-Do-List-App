@@ -1,21 +1,15 @@
 body {
-  background-image: linear-gradient(60deg, red, yellow);
+  background-image: linear-gradient(60deg, #43cea2,  #185a9d);
   font-size: 16px;
+  color: white;
 }
 
 h1 {
   font-size: 34px;
 }
 
-li {
-  background-color: white;
-  width: 50%;
-  display: flex;
-  margin-left: 25%;
-  justify-content: space-between;
-  font-family: Arial, Helvetica, sans-serif;
-  font-size: 22px;
-  list-style: none;
+ul {
+  opacity: 0.8;
 }
 
 input {
@@ -28,9 +22,10 @@ input {
 
 
 button {
-  background-color: #4CAF50; /* Green */
+
+  background-color: #FE5F55; 
   border: none;
-  color: white;
+  color: black;
   padding: 12px 32px;
   text-align: center;
   text-decoration: none;
@@ -39,8 +34,30 @@ button {
 
 }
 
+button:hover {
+  background-color: #d7263d;
+}
+
+
+#deleteB {
+  color: white;
+}
+
+li :checked  {
+ text-decoration: line-through;
+}
+
+#todo-button {
+  background-color: #bdd5ea;
+
+}
+#todo-button:hover {
+  color: white;
+  background-color: #185A9D;
+}
+
 .button-check {
-  background-color: red;
+  background-color: #4CAF50;
 
 }
 
@@ -61,6 +78,19 @@ button {
 
 .App-link {
   color: #61dafb;
+}
+
+li {
+  background-color: white;
+  color: black;
+  width: 50%;
+  display: flex;
+  margin-left: 23.5%;
+  justify-content: space-between;
+  text-align: left;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 22px;
+  list-style: none;
 }
 
 @keyframes App-logo-spin {
