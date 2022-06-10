@@ -21,14 +21,15 @@ function App() {
     console.log(newList);
   }
 
+  function setList(item) {
+    return (item);
+  }
+
   return (
     <div className="App">
       To Do List
       <Input getText={getText} addButton={addButton}></Input>
-      <List list={list}></List>
-      {/* {list.map(item => {
-        return <li>{item}</li>
-      })} */}
+      <List list={list} setList={setList}></List>
     </div>
   );
 }
