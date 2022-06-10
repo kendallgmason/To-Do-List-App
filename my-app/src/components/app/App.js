@@ -21,7 +21,7 @@ function App() {
 
   return (
     <div className="App">
-      To Do List
+     <h1> To Do List </h1>
       <Input inputFn={getText} placeholderText="Type an item to add" buttonFn={addToList} buttonText="Add to To Do"></Input>
       <List list={list} setList={setList}></List>
     </div>
