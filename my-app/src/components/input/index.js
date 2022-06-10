@@ -1,12 +1,8 @@
-import { useState } from 'react';
-
-function Input({ getText, addButton }) {
-
-
+function Input({ inputFn, placeholderText, buttonFn, buttonText }) {
     return (
         <div>
-            <input onChange={getText} placeholder="Type an item to add"></input>
-            <button onClick={addButton}>Add to To Do</button>
+            <input onChange={inputFn} placeholder={placeholderText}></input>
+            <button onClick={buttonFn}>{buttonText}</button>
         </div>
     )
 }

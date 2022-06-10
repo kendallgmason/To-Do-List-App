@@ -1,7 +1,9 @@
-function ListItems ({text, deletedItems, index}) {
+function ListItems ({className, deletedItems, index, item}) {
     return (
         <>
-            <button onClick={() => deletedItems(index) } > 0 </button>
+            <li key = {index} className={className}>{item}</li>
+            <button onClick={() => deletedItems(index) } > Delete </button>
+            <input type="checkbox"></input>
         </>
     );
 }

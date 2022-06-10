@@ -6,16 +6,15 @@ function List({ list, setList }) {
         setList(itemDeletedList);
     }
    
-  return (
+    return (
       <div> 
       <ul> 
        {list.map((item, index) => (
-           <li key = {index}>{item}
-            <ListItems class="list-items" deletedItems={deleteItems} index={index}/>
-            </li> 
+            <ListItems className="list-items" deletedItems={deleteItems} index={index} item={item}/>
        ))}
       </ul>
       </div>
-  );
-       }  
+    );
+}
+
 export default List;

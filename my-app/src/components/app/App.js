@@ -12,23 +12,17 @@ function App() {
   function getText(e) {
     let textValue = e.target.value;
     setText(textValue);
-    console.log(text);
   }
 
-  function addButton() {
+  function addToList() {
     let newList = [...list, text];
     setList(newList);
-    console.log(newList);
-  }
-
-  function setList(item) {
-    return (item);
   }
 
   return (
     <div className="App">
       To Do List
-      <Input getText={getText} addButton={addButton}></Input>
+      <Input inputFn={getText} placeholderText="Type an item to add" buttonFn={addToList} buttonText="Add to To Do"></Input>
       <List list={list} setList={setList}></List>
     </div>
   );
