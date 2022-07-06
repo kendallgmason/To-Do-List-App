@@ -2,7 +2,7 @@
     <img alt="School of Code" src="./images/soc-logo.png" width="60" />
 </div>
 <h1 align="center">
-  ⚛️ Hackathon: React-athon! ⚛️
+  ⚛️ To Do List App⚛️
 </h1>
 
 ## Task
