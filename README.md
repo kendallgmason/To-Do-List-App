@@ -22,7 +22,7 @@ With a little help, I did a big refactor! I've changed the data structure so tha
 
 - First time using React to build a proper project, so learned to take it slow and study documentation/google when needed. 
 
-- Learned about breaking the problem and tackling one bit of the app at a time. 
+- Learned about breaking the problem down, planning and tackling one bit of the app at a time. 
 
 - Make sure to console log a lot and read errors/ not be afraid of them when they come up. 
 
