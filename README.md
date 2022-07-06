@@ -33,8 +33,11 @@ With a little help, I did a big refactor! I've changed the data structure so tha
 ### Built with:
 
 React
+
 JavaScript
+
 CSS
+
 HTML
 
 </br></br>
