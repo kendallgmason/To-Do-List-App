@@ -8,7 +8,7 @@
 </br></br>
 
 
-## About The To Do List App 
+## :white_check_mark: About The To Do List App 
 
 I'd been wanting to make a to-do-list app for a while and I am really happy with the outcome of this one. I spent quite a bit of time on the design and I'm really pleased with how it looks. 
 
@@ -18,7 +18,7 @@ With a little help, I did a big refactor! I've changed the data structure so tha
 
 </br></br>
 
-### Main Learning Points:
+### :mortar_board: Main Learning Points:
 
 - First time using React to build a proper project, so learned to take it slow and study documentation/google when needed. 
 
@@ -30,7 +30,7 @@ With a little help, I did a big refactor! I've changed the data structure so tha
 
 </br></br>
 
-### Built with:
+### :hammer: Built with:
 
 React
 
@@ -42,7 +42,7 @@ HTML
 
 </br></br>
 
-### Getting Started:
+### :checkered_flag: Getting Started:
 
 Clone the repo as instructed below
 
