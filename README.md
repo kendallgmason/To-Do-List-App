@@ -1,8 +1,14 @@
-<h1 align="center">
-  ⚛️  To Do List App  ⚛️
-</h1>
+<img src="./images/Screenshot 2022-07-06 at 22.00.11.png" style="width: 1200px" />
 
-![]([https://i.imgur.com/XgsioqF.jpg](https://imgur.com/EDVV0P0))
+
+
+</br></br>
+
+
+</br></br>
+
+
+## About The To Do List App 
 
 I'd been wanting to make a to-do-list app for a while and I am really happy with the outcome of this one. I spent quite a bit of time on the design and I'm really pleased with how it looks. 
 
