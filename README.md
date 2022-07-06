@@ -16,6 +16,8 @@ I got it working fairly quickly but there was quite a lot of repetition in my co
 
 With a little help, I did a big refactor! I've changed the data structure so that the items are now stored in an array (rather than as HTML strings) and that allowed me to store and access the data more efficiently. I learnt a lot during the refactoring process.
 
+</br></br>
+
 ### Main Learning Points:
 
 - First time using React to build a proper project, so learned to take it slow and study documentation/google when needed. 
@@ -26,6 +28,8 @@ With a little help, I did a big refactor! I've changed the data structure so tha
 
 - How to pass down props and leanred more about CSS Styling. 
 
+</br></br>
+
 ### Built with:
 
 React
@@ -33,13 +37,19 @@ JavaScript
 CSS
 HTML
 
+</br></br>
+
 ### Getting Started:
 
 Clone the repo as instructed below
 
+</br></br>
+
 ### Prerequisites:
 
 No prerequisites
+
+</br></br>
 
 ### Installation
 
@@ -48,6 +58,8 @@ Clone the repo
 git clone https://github.com/kendallgmason/To-Do-List-App.git
 
 Run the index.html in a browser
+
+</br></br>
 
 ### Usage
 
