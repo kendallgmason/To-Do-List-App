@@ -1,10 +1,8 @@
-![](https://imgur.com/EDVV0P0)
-
-</br></br>
-
 <h1 align="center">
   ⚛️  To Do List App  ⚛️
 </h1>
+
+![]([https://i.imgur.com/XgsioqF.jpg](https://imgur.com/EDVV0P0))
 
 I'd been wanting to make a to-do-list app for a while and I am really happy with the outcome of this one. I spent quite a bit of time on the design and I'm really pleased with how it looks. 
 
