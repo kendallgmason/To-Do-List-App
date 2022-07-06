@@ -1,4 +1,8 @@
-</div>
+ <center>
+<img src="../images/Screenshot 2022-07-06 at 22.00.11.png" style="width: 200px" />
+</center>
+</br></br>
+
 <h1 align="center">
   ⚛️  To Do List App  ⚛️
 </h1>
