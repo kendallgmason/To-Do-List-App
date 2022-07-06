@@ -1,6 +1,5 @@
- <center>
-<img src='https://imgur.com/a/bOwHT9u' style="width: 200px" />
-</center>
+![](https://imgur.com/EDVV0P0)
+
 </br></br>
 
 <h1 align="center">
