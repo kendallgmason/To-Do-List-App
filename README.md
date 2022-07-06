@@ -1,5 +1,5 @@
  <center>
-<img src="../images/Screenshot 2022-07-06 at 22.00.11.png" style="width: 200px" />
+<img src='https://imgur.com/a/bOwHT9u' style="width: 200px" />
 </center>
 </br></br>
 
