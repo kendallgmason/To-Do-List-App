@@ -9,7 +9,7 @@ I got it working fairly quickly but there was quite a lot of repetition in my co
 
 With a little help, I did a big refactor! I've changed the data structure so that the items are now stored in an array (rather than as HTML strings) and that allowed me to store and access the data more efficiently. I learnt a lot during the refactoring process.
 
-Main Learning Points:
+### Main Learning Points:
 
 - First time using React to build a proper project, so learned to take it slow and study documentation/google when needed. 
 
@@ -19,26 +19,30 @@ Main Learning Points:
 
 - How to pass down props and leanred more about CSS Styling. 
 
-Built with:
+### Built with:
 
 React
 JavaScript
 CSS
 HTML
 
-Getting Started:
+### Getting Started:
+
 Clone the repo as instructed below
 
-Prerequisites:
+### Prerequisites:
+
 No prerequisites
 
-Installation
+### Installation
+
 Clone the repo
+
 git clone https://github.com/kendallgmason/To-Do-List-App.git
 
 Run the index.html in a browser
 
-Usage
+### Usage
 
 Add items to the list by typing them in the input and then pressing the ADD to TO DO button. 
 
