@@ -10,6 +10,8 @@
 
 ### :white_check_mark: About The To Do List App 
 
+Live Demo: https://kendallgtodo.netlify.app/
+
 I'd been wanting to make a to-do-list app for a while and I am really happy with the outcome of this one. I spent quite a bit of time on the design and I'm really pleased with how it looks. 
 
 I got it working fairly quickly but there was quite a lot of repetition in my code and I didn't have the data stored in a very efficient way. 
