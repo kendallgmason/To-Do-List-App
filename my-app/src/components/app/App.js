@@ -5,7 +5,7 @@ import Input from '../input/index.js';
 
 
 
-const initialList = ['Walk the dog', 'Take over the world', 'Listen to some King Crimson', 'Go to the Winchester, have a pint and wait for all of this to blow over'];
+const initialList = ['Walk the dog', 'Take over the world', 'Listen to some King Crimson', 'Watch Impractical Jokers'];
 
 function App() {
   const [list, setList] = useState(initialList);
